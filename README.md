@@ -1,18 +1,19 @@
-# Bunker-Apocalypse-Map
+# Bunker Apocalypse Map
 
-Compiled bytecode is written in ANSI C
+Roblox Studio map project for Bunker Apocalypse. Action scripts are authored in LuaU and are embedded in the Roblox place file.
 
-Actionable scripts are designed in LuaU scripting language, you will need an interpreter plugin to access these.
+## Repository contents
 
+- `Bunker Apocalypse Map.rbxl` - Roblox Studio place file
+- `TWR_Map_Creation_Documentation (1).pdf` - map creation documentation
 
-INSTRUCTIONS
+## Open / play
 
-1. Download Roblox Studio Version 2022 or newer
-2. Ensure you are logged into an account, then download the "Bunker-Apocalypse-Map" attached to this project
-3. Launch the file in Roblox Studio and enable "drafting" in Physics.
+1. Install Roblox Studio 2022 or newer.
+2. Open `Bunker Apocalypse Map.rbxl` in Roblox Studio.
+3. Enable drafting in Physics if needed.
+4. Use the virtual player from the Studio home page to test play.
 
-TO PLAY
-Launch virtual player in the studio home page
+## Edit scripts
 
-TO EDIT
-Download a LuaU interpreter plugin to view scripting in the given objects such as actionable items, invisible barriers, and spawn points for vehicle missions in-game.
+Use a LuaU interpreter/plugin in Roblox Studio to inspect and edit scripts attached to objects such as actionable items, invisible barriers, and vehicle mission spawn points.
